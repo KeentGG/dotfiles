@@ -1,0 +1,4 @@
+[ -f ~/.fzf.bash ] && source ~/.fzf.bash
+. "$HOME/.cargo/env"
+
+PATH=~/.console-ninja/.bin:$PATH
